@@ -1,0 +1,22 @@
+{
+  "name": "webpack-chunks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayser/webpack-chunks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayser/webpack-chunks/issues"
+  },
+  "homepage": "https://github.com/Jayser/webpack-chunks#readme",
+  "devDependencies": {
+    "webpack": "1.14.0"
+  }
+}
